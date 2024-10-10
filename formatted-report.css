@@ -9,6 +9,10 @@
     format('woff2');
 }
 
+table.reportTable {
+  width: 2000px;
+}
+
 #tooltip {
   position: absolute;
   width: auto;
@@ -52,7 +56,6 @@
   border: 1px solid #cccccc;
   border-collapse: collapse;
   border-spacing: 3px;
-  width: 2000px;
 }
 
 table.reportTable th {
