@@ -98,8 +98,11 @@ table.reportTable td {
   text-align: right;
 }
 
-.negative {
+td.variance.negative {
   color: red;
+}
+td.variance {
+  color: green;
 }
 
 .estimate {
